@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23737991/README.md)
+[README.md](https://github.com/user-attachments/files/23738611/README.md)
 # Engineering Mathematics Masterclass Landing Page
 
 This is a modern, responsive landing page for an Engineering Mathematics course, built with React and Vite.
