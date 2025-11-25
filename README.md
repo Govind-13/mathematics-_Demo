@@ -25,7 +25,7 @@ You need to have [Node.js](https://nodejs.org/) installed on your computer.
     ```bash
     npm run dev
     ```
-4.  Open your browser at the URL shown (usually `http://localhost:5173`).
+4.  Open your browser at the URL shown (usually http://localhost:5173).
 
 ## Project Structure
 
